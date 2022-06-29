@@ -1,0 +1,23 @@
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.exe.config
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.exe
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.pdb
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.xml
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul_pt4.Form1.resources
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul_pt4.Resources.resources
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.exe
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.xml
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.pdb
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\bin\Debug\Modul pt4.exe.config
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul pt4.exe
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul pt4.xml
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul pt4.pdb
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\bin\Debug\Modul pt4.exe
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\bin\Debug\Modul pt4.pdb
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\bin\Debug\Modul pt4.xml
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul pt4.vbprojAssemblyReference.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul_pt4.Form1.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul_pt4.Resources.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul pt4.vbproj.GenerateResource.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\Modul pt4 2\Modul pt4\obj\Debug\Modul pt4.vbproj.CoreCompileInputs.cache
